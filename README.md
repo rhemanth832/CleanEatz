@@ -38,7 +38,4 @@ CleanEatz/
 ├── images/
 │ └── [image files]
 └── README.md
-
-yaml
-Copy
-Edit
+---
