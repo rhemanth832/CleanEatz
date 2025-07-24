@@ -26,16 +26,3 @@ CleanEatz is a modern and responsive website template designed for healthy food 
 - JavaScript (Vanilla)
 
 ---
-
-## 📁 Folder Structure
-
-CleanEatz/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── [image files]
-└── README.md
----
